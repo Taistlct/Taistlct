@@ -7,3 +7,5 @@
 - 📫 Contate-me: tlcs.tlcs1997@icloud.com
 - 😄 Pronouns: Ela/Dela
 
+
+
