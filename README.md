@@ -4,7 +4,7 @@
 
 - 🔭 Hoje trabalho com back-end
 - 🌱 Estudando Python
-- 📫 Contate-me: tlcs.tlcs1997@icloud.com
+- 📫 Contate-me: devpython.22@hotmail.com
 - 😄 Pronouns: Ela/Dela
 
 
