@@ -4,8 +4,15 @@
 
 - 🔭 Hoje trabalho com back-end
 - 🌱 Estudando Python
+- 🌱 Estudando CS
+- 🌱 Estudando JavaScript
 - 📫 Contate-me: devpython.22@hotmail.com
 - 😄 Pronouns: Ela/Dela
+
+<h2 class="pt-3">Sobre</h2>
+Eu acredito no poder da tecnologia e sempre fui fascinada por ela, comecei a fazer cursos relacionados a computador aos 11 anos e sempre fui muito curiosa, sempre procurava saber de onde surgia esse mundo tão incrível. Porem aos 15 anos de idade tive que dar uma pausa nos estudos pois tive que começar a trabalhar para comprar minhas coisas, mas sempre me destaquei na área da tecnologia, sempre fui chamada para resolver problemas relacionados a computadores e impressoras (risos), por mas que minha função na empresa não fosse essa. 
+Conheci a linguagem Python aos 19 anos por meio de um amigo que é DEV e me apaixonei pela linguagem, desde então comecei a estudar e não parei mais, já fiz algumas automações web, adoro trabalhar com as bibliotecas pandas e selenium. Agora estou começando a introduzir outras linguagens em meus códigos como C# e Javascript, confesso que estou gostando bastante.
+Para mim não existe a palavra impossível, e por isso cada desafio é feito com toda minha dedicação.
 
 
 <div align="center">
