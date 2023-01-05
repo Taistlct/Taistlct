@@ -14,6 +14,7 @@ Eu acredito no poder da tecnologia e sempre fui fascinada por ela, comecei a faz
 Conheci a linguagem Python aos 19 anos por meio de um amigo que é DEV e me apaixonei pela linguagem, desde então comecei a estudar e não parei mais, já fiz algumas automações web, adoro trabalhar com as bibliotecas pandas e selenium. Agora estou começando a introduzir outras linguagens em meus códigos como C# e Javascript, confesso que estou gostando bastante.
 Para mim não existe a palavra impossível, e por isso cada desafio é feito com toda minha dedicação.
 
+<hr class="w-50 me-auto ms-auto">
 
 <div align="center">
   <a href="https://www.linkedin.com/in/tais-teixeira-29070321b/">
